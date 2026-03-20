@@ -15,6 +15,7 @@ const modules = [
   { href: '/silver-tongue/quick-fire', label: 'Quick Fire', icon: '⚡' },
   { href: '/silver-tongue/speak-aloud', label: 'Speak', icon: '▶' },
   { href: '/silver-tongue/reference', label: 'Reference', icon: '☰' },
+  { href: '/silver-tongue/politics', label: 'Politics', icon: '⚖' },
   { href: '/silver-tongue/dashboard', label: 'Stats', icon: '◫' },
 ];
 
